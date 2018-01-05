@@ -1,9 +1,9 @@
-# happpnewyear
-2018 happy new year 
-use a cool project lolcat
-#get the lolcat
+use lolcat to get cool colorful appearance
+# get the lolcat
+
 git@github.com:busyloop/lolcat.git
-#install lolcat
+
+# install lolcat
 gem install lolcat
-#run the file happynewyear.sh
+# run the file happynewyear.sh
 ./happynewyear.sh
